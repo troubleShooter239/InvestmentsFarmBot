@@ -15,13 +15,17 @@ This project is an asynchronous Telegram bot developed in Python, utilizing the 
 
 2. Install the dependencies:
 
-pip install -r requirements.txt
+```bash
+python -m pip install -r requirements.txt
+```
 
 3. Edit a configuration file config.py and add your bot token.
 
 4. Run the bot.
 
+```bash
 python bot.py
+```
 
 ## Usage
 1. Start the bot as described above.
